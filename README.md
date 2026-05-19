@@ -183,7 +183,7 @@ QuickBite-Crisis-Recovery-Analysis/
 ## Dashboard pages
 
 ## Home
-![Home](assets/home.png)
+![Home](assets/Home.png)
 
 ## Crisis Overview
 ![Crisis Overview](assets/crisis_overview.png)
@@ -195,13 +195,13 @@ QuickBite-Crisis-Recovery-Analysis/
 ![Delivery Performance](assets/delivery_performance.png)
 
 ## Customer Analysis
-![Customer Analysis](assets/customer_analysis.png)
+![Customer Analysis](assets/customer_analysis..png)
 
 ## Sentiment Analysis
-![Sentiment Analysis](assets/sentiment_analysis.png)
+![Sentiment Analysis](assets/sentiment_analysis..png)
 
 ## Recommendations
-![Recommendations](assets/recommendations.png)
+![Recommendations](assets/Recommendations.png)
 
 ---
 
